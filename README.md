@@ -1,4 +1,4 @@
-# AutoApiSecret-加密版    2.24修改
+# AutoApiSecret-加密版    3.13修改
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 # 置顶 #
